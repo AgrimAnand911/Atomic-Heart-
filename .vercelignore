@@ -1,0 +1,8 @@
+.agent
+.agents
+.git
+.gitignore
+.env*.local
+.env
+__pycache__
+*.pyc
